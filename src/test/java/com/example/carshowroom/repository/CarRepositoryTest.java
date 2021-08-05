@@ -26,7 +26,7 @@ class CarRepositoryTest {
 
         carRepositoryTest.save(car);
 
-        assertEquals(car, carRepositoryTest.findCarById(1L));
+        assertEquals(car, carRepositoryTest.findCarById(car.getId()));
 
 
     }
