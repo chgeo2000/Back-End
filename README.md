@@ -1,4 +1,4 @@
-Car Showroom application written in Java using Spring framework.
+Car Showroom application written in Java using SpringBoot framework.
 
 	CRUD operations for:
 		Car
