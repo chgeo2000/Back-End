@@ -60,7 +60,7 @@ public class CarServiceTest {
 
         List<CarDto> result = carService.getAllCars();
 
-        assertEquals(3, result.size());
+        assertEquals(4, result.size());
     }
 
 
